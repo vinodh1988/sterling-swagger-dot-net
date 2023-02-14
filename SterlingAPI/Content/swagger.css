@@ -1,0 +1,16 @@
+﻿body {
+    
+}
+
+#header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    background-color: #606060 !important;
+    color: white !important;
+}
+
+    #header input[type="text"] {
+       height: 30px !important;
+       width: 300px !important;
+       border-radius: 10px !important;
+       border: 2px solid gray !important;
+    }
